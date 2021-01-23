@@ -1,5 +1,5 @@
 # JsonPowerDB-Form
-This project's main aim is to send data into JsonPowerDB
+This project's main aim is to send form data into JsonPowerDB.
 
 **Benefits of using JsonPowerDB**<br/>
 -More Efficiency.<br/>
@@ -17,4 +17,4 @@ This project's main aim is to send data into JsonPowerDB
  Version 1.0
 
 **Project status**
-Completed
+Completed.
